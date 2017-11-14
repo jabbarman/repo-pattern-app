@@ -1,0 +1,11 @@
+;
+;   ini file for the 'app' should be placed outside of the root folder
+;   the 'env_sample' file is provided as an example and should be copied
+;   to '.env' above the root folder
+;
+[database]
+db_host = '<database host name>';
+db_name = '<database schema name>';
+db_user = '<database user>';
+db_pass = '<database password>';
+db_port = '<database port number>';
